@@ -1,2 +1,2 @@
 # GitHub_FerranOncins_2B
-Exercici classe GitHub
+Exercici 1 classe GitHub
